@@ -30,7 +30,7 @@ Assembler
 
 - **Демонстрация работы часов:**
 
-https://yadi.sk/d/QHIv-tU9MunCbw?w=1
+[https://disk.yandex.ru/i/W0EhWnMVsVWhww](https://disk.yandex.ru/i/W0EhWnMVsVWhww)
 
 - **Кратко по шагам процесс работы часов.**
 После сбора самих часов(схема прикреплена) и прошивки, необходимо их подключить к ноутбуку или к другому источнику питания.
